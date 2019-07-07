@@ -1,18 +1,18 @@
 Preamble
 ===
 
-This schedule aims to define expectations and potential liabilities arising from participation in the named tokens scheme (the "Token").
+This schedule aims to define expectations and potential liabilities arising from participation in the named tokens scheme (the "Token").
 
-It is executed within the context of a wider agreement (the "Master Agreement"), and is not complete without being included in such an agreement. Such a Master Agreement must define the jurisdiction the agreement is intended to be governed under, the arbitration procedure to be used in any dispute, and the obligation of the Sponsor to provide services to the Holders.
+It is executed within the context of a wider agreement (the "Master Agreement"), and is not complete without being included in such an agreement. Such a Master Agreement must define the jurisdiction the agreement is intended to be governed under, the arbitration procedure to be used in any dispute, and the obligation of the Sponsor to provide services to the Holders.
 
 The agreements meaning is also determined by a number of sub-schedules, which should be attached to the Master Agreement, but who’s format should follow the examples in this reference agreement.
 
 Prelude
 ===
 
-These schedules govern the relationship of the Sponsor, or any legal successor of the Sponsor, and any legal or natural person that participates in the token scheme by holding the tokens (the "Token Holder").
+These schedules govern the relationship of the Sponsor, or any legal successor of the Sponsor, and any legal or natural person that participates in the token scheme by holding the tokens (the "Token Holder").
 
-There will be an information system (the "Register") which records the ownership of tokens, and is intended to be hosted on a neutral decentralised platform (the "Ledger").
+There will be an information system (the "Register") which records the ownership of tokens, and is intended to be hosted on a neutral decentralised platform (the "Ledger").
 
 Terms of the Token Holder Schedule
 ===
