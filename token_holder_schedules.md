@@ -95,7 +95,7 @@ Will also be raised as an on-ledger Notification event originating on the ledger
 Location
 ---
 
-The Ledger being the Ethereum-based network curated by The Ethereum Foundation. having the network id of 1. The Register consists of the smart contract software located at address 0xdeadbeefdeadbeefdeadbeef on the specified Register.
+The Ledger being the Ethereum-based network curated by The Ethereum Foundation. having the network id of 1. The Register consists of the smart contract software located at address `0xdeadbeefdeadbeefdeadbeef` on the specified Register.
 
 Fork Choice Rule
 ---
